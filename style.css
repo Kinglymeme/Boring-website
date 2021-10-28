@@ -1,0 +1,42 @@
+body{
+  color:darkgrey;
+  background-color:gray;
+  border-radius:4%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+  border: 3px solid darkred;
+  text-align:center;
+  border-radius:10px;
+  background-color:black;
+  color: beige;
+}
+
+p{
+  text-align: center;
+  background-color:black;
+  border:5px double darkred;
+  padding:10px;
+}
+
+ul {
+  list-style-type: none;
+  background-color:black;
+  color:tan;
+  padding: 15px;
+  text-align:center;
+  border:3px solid darkred;
+  font-size:110%;
+}
+
+
+li{
+  display:inline;
+  border:3px dotted darkred;
+  margin:5px;
+}
+
+lol{
+  font-size:120%;
+}
